@@ -1,0 +1,17 @@
+{
+  "main": "super-biodata-sapi.raml",
+  "name": "s-api-biodata",
+  "groupId": "bfd2d521-2fd0-47fd-94e6-54ee65e93a77",
+  "assetId": "s-api-biodata",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "dependencies": [
+    {
+      "groupId": "org.mule.examples",
+      "assetId": "basic-auth-securityscheme",
+      "version": "1.0.0"
+    }
+  ],
+  "descriptorVersion": "1.0.0"
+}
