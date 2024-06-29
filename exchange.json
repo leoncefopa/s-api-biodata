@@ -1,7 +1,7 @@
 {
   "main": "super-biodata-sapi.raml",
   "name": "s-api-biodata",
-  "groupId": "bfd2d521-2fd0-47fd-94e6-54ee65e93a77",
+  "groupId": "4f93fecb-1ecb-4fa3-8bcd-712e959455fd",
   "assetId": "s-api-biodata",
   "version": "1.0.0",
   "classifier": "raml",
@@ -14,7 +14,7 @@
     }
   ],
   "descriptorVersion": "1.0.0",
-  "organizationId": "bfd2d521-2fd0-47fd-94e6-54ee65e93a77",
+  "organizationId": "4f93fecb-1ecb-4fa3-8bcd-712e959455fd",
   "apiVersion": "1.0",
   "originalFormatVersion": "1.0"
 }
